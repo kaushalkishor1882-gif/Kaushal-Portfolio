@@ -106,5 +106,5 @@ I am actively working on improving my skills and building solutions that create 
 
 ## 🔗 Connect With Me  
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/kaushalkishor1882-gif  
+- LinkedIn: www.linkedin.com/in/kaushal-kishor-52656a368
