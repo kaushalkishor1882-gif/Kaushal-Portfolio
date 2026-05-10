@@ -77,13 +77,13 @@ I have experience in **Full Stack Web Development and Machine Learning**, and I 
 
 ## 🌐 Live Website
 
-👉 [Add your Netlify link here]
+👉 https://kaushalkishorporfolio.netlify.app/
 
 ---
 
 ## 📂 GitHub Repository
 
-👉 [Add your repo link here]
+👉 https://github.com/kaushalkishor1882-gif/Kaushal-Portfolio
 
 ---
 
