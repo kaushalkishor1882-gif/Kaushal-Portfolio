@@ -41,7 +41,7 @@ I have experience in **Full Stack Web Development and Machine Learning**, and I 
 * Built a full-stack savings platform
 * Features: goal tracking, deposits, withdrawals
 * Tech: React.js, Node.js, Firebase, SQL
-* 🌐 Live: https://dreamgullak.in
+
 
 ---
 
@@ -70,7 +70,7 @@ I have experience in **Full Stack Web Development and Machine Learning**, and I 
 
 ## 📬 Contact
 
-* 📧 Email: [kaushalkishor1882@gmail.com](mailto:kaushalkishor1882@gmail.com)
+* 📧 Email: kaushalkishor1882@gmail.com
 * 🔗 LinkedIn: https://www.linkedin.com/in/kaushal-kishor-52656a368
 
 ---
